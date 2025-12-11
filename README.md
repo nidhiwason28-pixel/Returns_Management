@@ -1,5 +1,4 @@
-# Returns_Management
-Returns Management &amp; Refund Calculation Module
+# Returns Management &amp; Refund Calculation Module
 Summary
 
 Designed and developed a complete Returns Management system for a U.S. market e-commerce platform operating on a consultant-driven sales model (similar to Amway). The work included building an end-to-end returns flow, refund calculation logic, and a frontend returns dashboard.
@@ -19,11 +18,11 @@ Architecture & Responsibilities
 
 Key Features
 
-1. Automated refund computation with accurate tax & discount adjustments
-2. Configurable return rules and product eligibility logic
-3. Intuitive dashboard with real-time status tracking
-4. Seamless integration with order, promotion, and payment subsystems
+  1. Automated refund computation with accurate tax & discount adjustments
+  2. Configurable return rules and product eligibility logic
+  3. Intuitive dashboard with real-time status tracking
+  4. Seamless integration with order, promotion, and payment subsystems
 
 Tech Stack
 
-Java, Junit, Apache OFBiz, AngularJS, jQuery, JavaScript, HTML, CSS
+  Java, Junit, Apache OFBiz, AngularJS, jQuery, JavaScript, HTML, CSS
